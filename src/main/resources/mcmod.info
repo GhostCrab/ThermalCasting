@@ -1,0 +1,17 @@
+[{
+    "modid": "ThermalCasting",
+    "name": "ThermalCasting",
+    "description": "Tinker's Construct style casting in a Thermal Expansion style block",
+    "version": "1.7.10-0.1",
+    "mcversion": "1.7.10",
+    "url": "https://github.com/GhostCrab/ThermalCasting",
+    "updateUrl": "",
+    "authorList": ["GhostCrab"],
+    "logoFile": "assets/thermalcasting/textures/logo.png",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": "false"
+}]
